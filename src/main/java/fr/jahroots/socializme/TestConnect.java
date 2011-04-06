@@ -3,8 +3,6 @@ package fr.jahroots.socializme;
 import java.util.Collections;
 import java.util.List;
 
-import org.springframework.social.facebook.FacebookTemplate;
-import org.springframework.social.twitter.Tweet;
 import org.springframework.social.twitter.TwitterTemplate;
 
 public class TestConnect {
